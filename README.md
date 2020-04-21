@@ -2,17 +2,17 @@
 
 ## Setup
 
-1. clone repo   
+1. Clone repo   
 ```
 git clone https://github.com/dpmika/CheckMyRepo.git
 ```
 
-2. cd into directory   
+2. Into directory   
 ```
 cd CheckMyRepo
 ```
 
-3. install dependencies using npm or yarn
+3. Install dependencies using npm or yarn
 ```
 npm install or yarn 
 ```
